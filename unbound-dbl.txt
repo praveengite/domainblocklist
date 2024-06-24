@@ -1,0 +1,3 @@
+server:
+local-zone: "" always_nxdomain
+local-zone: "" always_nxdomain
