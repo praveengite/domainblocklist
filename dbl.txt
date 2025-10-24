@@ -12,7 +12,23 @@ ff02::1 ip6-allnodes
 ff02::2 ip6-allrouters
 ff02::3 ip6-allhosts
 0.0.0.0 0.0.0.0
-# Custom host records are listed here.
+#241025
+0.0.0.0 zohomail.info
+0.0.0.0 zohomailer.icu
+0.0.0.0 zohomail.top
+0.0.0.0 api.kermit.rocks
+0.0.0.0 dll.kermit.rocks
+0.0.0.0 gsdesk.help
+0.0.0.0 huanyu3333.com
+0.0.0.0 jkpolice.gov.in.sitetech.tips
+0.0.0.0 kermit.rocks
+0.0.0.0 kukuruza.pochta-service.dev
+0.0.0.0 dev.pochta-service.dev
+0.0.0.0 pochta-service.dev
+0.0.0.0 morrowadded.com
+0.0.0.0 misshon.com
+0.0.0.0 rh-ansible-prd.com
+#Custom host records are listed here.
 0.0.0.0 shiestynerd.dvrlists.com
 0.0.0.0 navicatadvvr.com
 0.0.0.0 cdn.netflix2cdn.com
@@ -1247,7 +1263,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 pajak.veugo.cc/
 0.0.0.0 googleplay.djppajakgoid.com/
 0.0.0.0 pajak.rugind.cc/
-
 0.0.0.0 mailgov.top
 0.0.0.0 cloudzy.com
 0.0.0.0 cyberdelhipolice-gov.info
@@ -1255,7 +1270,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 indiapostgovin.help
 0.0.0.0 indiapostgovin.click
 0.0.0.0 www.adictrict-up-gov.info
-
 0.0.0.0 coord.site
 0.0.0.0 digilockergov.info
 0.0.0.0 *.coord.site
@@ -1391,16 +1405,3 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.email.gov.in.indiandefence.work
 0.0.0.0 email.gov.in.indiandefence.work
 0.0.0.0 *.indiandefence.work
-#241025
-0.0.0.0 api.kermit.rocks
-0.0.0.0 dll.kermit.rocks
-0.0.0.0 gsdesk.help
-0.0.0.0 huanyu3333.com
-0.0.0.0 jkpolice.gov.in.sitetech.tips
-0.0.0.0 kermit.rocks
-0.0.0.0 kukuruza.pochta-service.dev
-0.0.0.0 dev.pochta-service.dev
-0.0.0.0 pochta-service.dev
-0.0.0.0 morrowadded.com
-0.0.0.0 misshon.com
-0.0.0.0 rh-ansible-prd.com
