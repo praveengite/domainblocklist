@@ -1391,3 +1391,16 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.email.gov.in.indiandefence.work
 0.0.0.0 email.gov.in.indiandefence.work
 0.0.0.0 *.indiandefence.work
+#241025
+0.0.0.0 api.kermit.rocks
+0.0.0.0 dll.kermit.rocks
+0.0.0.0 gsdesk.help
+0.0.0.0 huanyu3333.com
+0.0.0.0 jkpolice.gov.in.sitetech.tips
+0.0.0.0 kermit.rocks
+0.0.0.0 kukuruza.pochta-service.dev
+0.0.0.0 dev.pochta-service.dev
+0.0.0.0 pochta-service.dev
+0.0.0.0 morrowadded.com
+0.0.0.0 misshon.com
+0.0.0.0 rh-ansible-prd.com
