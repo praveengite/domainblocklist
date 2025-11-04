@@ -12,6 +12,12 @@ ff02::1 ip6-allnodes
 ff02::2 ip6-allrouters
 ff02::3 ip6-allhosts
 0.0.0.0 0.0.0.0
+#041125
+0.0.0.0 cryptais.com
+0.0.0.0 68u91.66foh90o.com
+0.0.0.0 jm114.66foh90o.com
+0.0.0.0 tqq6g.66foh90o.com
+0.0.0.0 w0g25.66foh90o.com
 #311025
 0.0.0.0 65.49.1.52
 0.0.0.0 45.156.129.131
