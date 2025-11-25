@@ -12,6 +12,40 @@ ff02::1 ip6-allnodes
 ff02::2 ip6-allrouters
 ff02::3 ip6-allhosts
 0.0.0.0 0.0.0.0
+##251125
+0.0.0.0	paxobuy.com
+0.0.0.0	tepiwo.com
+0.0.0.0	yydsmr.com
+0.0.0.0	epfindia.com
+##241125
+0.0.0.0	209.200.246.43
+0.0.0.0	46.253.4.169
+0.0.0.0	68.183.255.53
+0.0.0.0	157.230.56.201
+0.0.0.0	159.223.59.134
+0.0.0.0	165.232.68.53
+0.0.0.0	159.223.8.217
+0.0.0.0	143.110.187.124
+0.0.0.0	45.76.190.68
+0.0.0.0	149.28.61.158
+0.0.0.0	64.176.179.199
+0.0.0.0	173.249.42.140
+0.0.0.0	172.232.116.205
+0.0.0.0	teamindia.quest
+0.0.0.0	chuchuchacha.shop
+0.0.0.0	wmiprovider.com
+0.0.0.0	dns.wmiprovider.com
+0.0.0.0	update.wmiprovider.com
+0.0.0.0	chuchuchachawin.bond
+0.0.0.0	149.3.170.189
+0.0.0.0	45.155.54.123
+0.0.0.0	csdindiagovin.site
+0.0.0.0	chuchuchachawin.sbs
+0.0.0.0	wideri.com
+0.0.0.0	wuvehus.com
+0.0.0.0	pazovet.com
+0.0.0.0	wudepen.com
+0.0.0.0	xegogiv.com
 ##211125
 0.0.0.0	185.235.137.90
 0.0.0.0	lionsdenim.xyz
