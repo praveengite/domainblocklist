@@ -12,6 +12,27 @@ ff02::1 ip6-allnodes
 ff02::2 ip6-allrouters
 ff02::3 ip6-allhosts
 0.0.0.0 0.0.0.0
+##261125
+0.0.0.0	188.124.51.141
+0.0.0.0	46.253.4.143
+0.0.0.0	hdfcinvestment.top
+0.0.0.0	hdfcinvestment.app
+0.0.0.0	hdfcinvestment.cc
+0.0.0.0	hdfcinvestment.vip
+0.0.0.0	www.drdo.gov.in.sci-hub.cc
+0.0.0.0	drdo.gov.in.sci-hub.cc
+0.0.0.0	publications.drdo.gov.in.sci-hub.cc
+0.0.0.0	chuchuchacha.site 
+0.0.0.0	newdomainforuse.bond
+0.0.0.0	datatodownload.shop
+0.0.0.0	whyareyouseeing.shop
+0.0.0.0	letmeseethis.shop
+0.0.0.0	lionagency.xyz
+0.0.0.0	migimigichuchuchacha.blogspot.com
+0.0.0.0	data.jsonserv.xyz
+0.0.0.0	server.jsonserv.xyz
+0.0.0.0	hot.jsonserv.xyz
+0.0.0.0	jsonserv.xyz
 ##251125
 0.0.0.0	paxobuy.com
 0.0.0.0	tepiwo.com
