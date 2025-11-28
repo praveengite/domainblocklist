@@ -12,6 +12,13 @@ ff02::1 ip6-allnodes
 ff02::2 ip6-allrouters
 ff02::3 ip6-allhosts
 0.0.0.0 0.0.0.0
+##271125
+0.0.0.0 pahalgamattack.com
+0.0.0.0 aefohouaencouea.ws
+0.0.0.0 aeofhoaucnkjaneubk
+0.0.0.0 afeouhonwuxsfaf.ws
+0.0.0.0 fauefahefucunuancne.ws
+0.0.0.0 45.155.54.113
 ##261125
 0.0.0.0	188.124.51.141
 0.0.0.0	46.253.4.143
