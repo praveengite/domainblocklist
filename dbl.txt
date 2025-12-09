@@ -12,6 +12,26 @@ ff02::1 ip6-allnodes
 ff02::2 ip6-allrouters
 ff02::3 ip6-allhosts
 0.0.0.0 0.0.0.0
+##091225
+0.0.0.0 thebdggamee.com
+0.0.0.0 bdggame.onl
+0.0.0.0 big-daddygame.net
+0.0.0.0 www.bigdaddyindian.in
+0.0.0.0 bigdaddywin.net
+0.0.0.0 big-batery-daddy.online
+0.0.0.0 bigdaddygame.pro
+0.0.0.0 bigdaddyonline.co.in
+0.0.0.0 bdplay.in
+0.0.0.0 bbig-daddy.com
+##051225
+0.0.0.0 colourtinctem.com
+##021225
+0.0.0.0 216.126.237.61
+0.0.0.0 46.253.4.33
+indiancyberteam.website
+##011225
+0.0.0.0 tifiru.com
+0.0.0.0 wezeriw.com
 ##271125
 0.0.0.0 pahalgamattack.com
 0.0.0.0 aefohouaencouea.ws
